@@ -1,4 +1,4 @@
-![Java CI with Maven](https://github.com/rabbdora/se-lab/actions/workflows/main.yml/badge.svg)
+![Java CI with Maven](https://github.com/rabbdora/se-lab/actions/workflows/maven.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # SE Spaceship
 
